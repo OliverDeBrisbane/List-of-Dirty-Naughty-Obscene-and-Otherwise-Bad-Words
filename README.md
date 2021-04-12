@@ -12,7 +12,9 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 
 | Name                               | Code              |
 | ---------------------------------- | ----------------- |
+| [Afrikaans](af)                    | af                |
 | [Arabic](ar)                       | ar                |
+| [Australian Kriol](rop)            | rop               |
 | [Chinese](zh)                      | zh                |
 | [Czech](cs)                        | cs                |
 | [Danish](da)                       | da                |
@@ -31,15 +33,22 @@ Miscellaneous caveat: Clearly, what goes in these lists is subjective.  In our c
 | [Kabyle](kab)                      | kab               |
 | [Klingon](tlh)                     | tlh               |
 | [Korean](ko)                       | ko                |
+| [Māori](mi)                        | mi                |
+| [Norfuk](pih)                      | pih               |
 | [Norwegian](no)                    | no                |
 | [Persian](fa)                      | fa                |
 | [Polish](pl)                       | pl                |
 | [Portuguese](pt)                   | pt                |
+| [Romanian](ro)                     | ro                |
 | [Russian](ru)                      | ru                |
+| [Samoan](sm)                       | sm                |
 | [Spanish](es)                      | es                |
 | [Swedish](sv)                      | sv                |
+| [Tamil](ta)                        | ta                |
 | [Thai](th)                         | th                |
+| [Tongan](ton)                      | ton               |
 | [Turkish](tr)                      | tr                |
+| [Welsh](cy)                        | cy                |
 
 See also the [list of projects, documents, and organizations](USERS.md) that use these lists.
 
